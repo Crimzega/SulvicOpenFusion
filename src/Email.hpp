@@ -1,5 +1,5 @@
 #pragma once
 
 namespace Email {
-	void init();
+    void init();
 }
